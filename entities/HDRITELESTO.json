@@ -1,0 +1,18 @@
+{
+   "Entities": [
+       {
+           "skybox": {
+               "color": {
+                   "blue": 255,
+                   "green": 255,
+                   "red": 255
+               },
+               "url": "https://github.com/SatyrnFinancial/telesto-assets/blob/main/images/HDRI-II.hdr?raw=true"
+           },
+           "skyboxMode": "enabled",
+           "type": "Zone",
+           "userData": "{\"grabbableKey\":{\"grabbable\":false}}"
+       }
+   ],
+   "Id": "19f5a291-1160-4cff-83f2-43476cc9f355"
+}
